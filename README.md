@@ -70,6 +70,6 @@ It includes flower measurements and their corresponding species labels. The data
 ```text
 iris-ml-classification-model/
 │
-├── library_daatset_features_loading.ipynb
+├── iris_flower_classification_random_forest.ipynb
 ├── Iris.csv
 └── README.md
